@@ -110,6 +110,8 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC3() {
+String nom= "Roxana Lazar: ";
+String felicitacio="Feliz año y que toque la loteria";
 
 	}
 
