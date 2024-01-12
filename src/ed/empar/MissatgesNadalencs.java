@@ -113,6 +113,7 @@ public class MissatgesNadalencs {
 String nom= "Roxana Lazar: ";
 String felicitacio="Feliz año y que toque la loteria";
 
+System.out.println(nom+felicitacio);
 	}
 
 	private static void AlumneFila1PC4() {
