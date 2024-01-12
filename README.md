@@ -41,7 +41,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 #### AlumneFila1 PC2:
 
 
-#### AlumneFila1 PC3:
+#### AlumneFila1 PC3:Roxana Lazar
+Ja he modificat el .java amb una felicitacio.
 
 
 #### AlumneFila1 PC4:
